@@ -1,1 +1,42 @@
 /* add CSS class and element and selectors here */
+body {
+  background-color: darkturquoise;
+  color:white;
+  font-size: 150%;
+}
+
+.myClass {
+  background-color: plum;
+  color: black
+}
+
+h1, h2 {
+  font-size: 250%;
+  text-shadow: 3px 2px #DA70D6;
+  text-align: center;
+}
+
+h3 {
+  font-size: 300%;
+  text-shadow: 3px 2px #DA70D6;
+}
+
+div {
+  border: dotted;
+}
+
+.info-section {
+  color: white;
+  border: solid;
+  text-align: center;
+}
+
+#welcome {
+  color: slateblue;
+}
+
+*{
+  text-align: center;
+}
+
+
